@@ -1,9 +1,8 @@
-Origin: cj81499's Cydia Repo
-Label: cj81499's Cydia Repo
+Origin: Boxer
+Label: Boxer
 Suite: stable
 Version: 1.0
-Codename: INSERTCODENAMEHERE
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: cj81499's Cydia Repo
-Icon: file://CydiaIcon.png
+Description: Boxer - a cydia repo template
