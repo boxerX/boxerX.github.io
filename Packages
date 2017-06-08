@@ -27,8 +27,8 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
 Package: boxer.avbox2
-Version: 1.0
-Section: App
+Version: 1.0-1
+Section: Tweaks
 Maintainer: boxer <avboxauthor@gmail.com>
 Depends: firmware (>=9.0)
 Architecture: iphoneos-arm
@@ -39,4 +39,3 @@ Description: AVBox2
 Name: AVBox2
 Author: boxer <avboxauthor@gmail.com>
 Depiction: https://boxerx.github.io/depictions/?p=boxer.avbox2
-
