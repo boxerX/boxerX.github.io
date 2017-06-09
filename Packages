@@ -1,41 +1,49 @@
+Package: boxer.avbox2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: boxer <avboxauthor@gmail.com>
+Depends: firmware (>= 9.0)
+Filename: debs/boxer.avbox2_1.0_iphoneos-arm.deb
+Size: 52873066
+MD5sum: 2b4ec8ee263224dec692a94642073baa
+SHA1: df7be898d89776f0ed99f69132d9cce880dd9b64
+SHA256: c84c30dbddc3b7a7c0c07bb460193ae9dec30bbc8926e26368da1088651654e4
+Section: app
+Priority: optional
+Homepage: boxerX.github.io
+Description: AVBox2
+Author: boxer <avboxauthor@gmail.com>
+Name: AVBox2
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
 Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
 Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
 
 Package: com.supermamon.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Architecture: iphoneos-arm
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
 Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
 
-Package: boxer.avbox2
-Version: 1.0-1
-Section: Tweaks
-Maintainer: boxer <avboxauthor@gmail.com>
-Depends: firmware (>=9.0)
-Architecture: iphoneos-arm
-Filename: ./debs/boxer.avbox2_1.0_iphoneos-arm.deb
-Size: 52873066
-MD5sum: 2b4ec8ee263224dec692a94642073baa
-Description: AVBox2
-Name: AVBox2
-Author: boxer <avboxauthor@gmail.com>
-Depiction: https://boxerx.github.io/depictions/?p=boxer.avbox2
